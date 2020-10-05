@@ -1,5 +1,9 @@
 # PYNEER_ITrend
-A _C-School_ project to figure out trends of Information Tech. by using Web crawling, TF-IDF, LDA (Topic Modeling)
+A _C-School_ project to figure out trends of Information Tech. by using
+1) Web Crawling
+2) K-Means & DBSCAN Clustering
+3) LDA (Topic Modeling)
+4) Linear Regression & Visualization
 
 성균관대학교 프로그래밍 학회 Pyneer에서 진행한 NLP 프로젝트 ITrend입니다.
 
